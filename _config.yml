@@ -1,6 +1,6 @@
 # main text of home
 name: Sara Saperstein
-bio: Senior Data Scientist at Pixability
+bio: Data Science Team Lead at Pixability
 #bio: Computational neuroscientist turned data scientist with a passion for getting stuff done
 
 # twitter summary info
@@ -35,10 +35,11 @@ twitter: SaraSaperstein
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: sara-saperstein-0a98648
+linkedin: sarasaperstein
 #youtube: myyoutube
 #spotify: myspotify
 github: SaraSaperstein
+keybase: sarasaperstein
 #stackoverflow: 7044681/mystackoverflow
 #quora: userquora
 #reddit: username
@@ -49,7 +50,7 @@ email: sara.saperstein@gmail.com
 authors:
     SaraSaperstein:
         name: Sara Saperstein
-        bio: Senior data scientist at Pixability
+        bio: Data science team lead at Pixability
         external-image: false
         picture: assets/images/profile.png
         twitter: SaraSaperstein
